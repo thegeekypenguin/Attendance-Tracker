@@ -1,0 +1,7 @@
+flask 
+opencv-python
+pymongo[srv]
+Flask-pyMongo
+python-dotenv
+werkzeug
+face-recognition
